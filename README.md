@@ -63,4 +63,4 @@ This study successfully identified key molecular features influencing aromatase 
 ## Installation & Usage
 1. Install required Python libraries:
    ```bash
-   pip install pandas numpy seaborn matplotlib scikit-learn padelpy
+   pip install pandas numpy seaborn matplotlib scikit-learn
