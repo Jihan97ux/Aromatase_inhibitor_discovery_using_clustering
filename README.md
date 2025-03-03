@@ -2,8 +2,7 @@
 
 ## Author
 **Jihan Fadila**  
-Universitas Pertamina  
-Email: jihan4han97@gmail.com  
+📧 Email: jihan4han97@gmail.com
 
 ## Introduction
 Breast cancer is a major global health threat, with 2.3 million new cases reported in 2020, accounting for 11.7% of all cancer cases worldwide. The prevalence in Indonesia ranks first, with 68,858 cases and over 22,000 deaths. One of the key factors in breast cancer development is the increase in estrogen levels mediated by the **aromatase enzyme**, which converts androgens into estrogens.
